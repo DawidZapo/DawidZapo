@@ -1,5 +1,5 @@
 ### Hello there 👋🎾
-I'm Dawid Zapotoczny and I'm currently studing Informatics at Silesian University of Technology.
+I'm Dawid Zapotoczny and I'm currently studying Informatics at Silesian University of Technology.
 
 ***
 
