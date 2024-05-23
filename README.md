@@ -3,6 +3,10 @@ I'm Dawid Zapotoczny and I'm currently studying Informatics at Silesian Universi
 
 ***
 
+### I'm currently working on Full-Stack StatTracker App
+Web app designed to gather advanced and sophisticated statistics from basketball games.
+***
+
 ### You can  reach me at <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/twoja-nazwa-uzytkownika/)
 
