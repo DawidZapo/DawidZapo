@@ -1,9 +1,9 @@
 ### Hello there 👋🎾
-I'm Dawid Zapotoczny and I'm currently studying Informatics at Silesian University of Technology.
+I'm Dawid Zapotoczny, currently working as a DevOps intern at Orange and I'm studying Informatics at Silesian University of Technology.
 
 ***
 
-### I'm currently working on Full-Stack StatTracker App
+### I'm currently working on the Full-Stack StatTracker App
 Web app designed to gather advanced and sophisticated statistics from basketball games.
 ***
 
