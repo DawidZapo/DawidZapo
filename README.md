@@ -1,5 +1,5 @@
 ### Hello there 👋🎾
-I'm Dawid Zapotoczny, currently working as a DevOps intern at Orange and I'm studying Informatics at Silesian University of Technology.
+I'm Dawid Zapotoczny, currently working as a DevOps intern at Orange and studying Informatics at Silesian University of Technology.
 
 ***
 
