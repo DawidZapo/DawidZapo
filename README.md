@@ -8,7 +8,7 @@ Web app designed to gather advanced and sophisticated statistics from basketball
 ***
 
 ### You can  reach me at <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/twoja-nazwa-uzytkownika/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dawid-zapotoczny-6619811b1/)
 
 ***
 
