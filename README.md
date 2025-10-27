@@ -3,8 +3,8 @@ I'm Dawid Zapotoczny, currently working as a Junior Software Engineer in DevOps 
 
 ***
 
-### I'm currently working on the Full-Stack StatTracker App
-Web app designed to gather advanced and sophisticated statistics from basketball games.
+### I'm currently working on the RMS (Restaurant Management System)
+Web app designed to implement all POS funcionalities (developed as Engineer Project)
 ***
 
 ### You can  reach me at <br>
