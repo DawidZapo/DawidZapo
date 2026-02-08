@@ -3,8 +3,8 @@ I'm Dawid Zapotoczny, currently working as a Junior Software Engineer in DevOps 
 
 ***
 
-### I'm currently working on the RMS (Restaurant Management System)
-Web app designed to implement all POS funcionalities (developed as Engineer Project)
+### I'm currently working on the ShoppingHours
+Web app designed to track daily expenses for private purposes.
 ***
 
 ### You can  reach me at <br>
