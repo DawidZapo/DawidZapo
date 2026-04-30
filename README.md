@@ -1,5 +1,5 @@
 ### Hello there 👋🎾
-I'm Dawid Zapotoczny, currently working as a Junior Software Engineer in DevOps Department at Orange and studying Informatics at Silesian University of Technology.
+I'm Dawid Zapotoczny, currently working as a Fullstack Developer at Consdata and pursuing master's degree in Informatics at Silesian University of Technology.
 
 ***
 
